@@ -1,4 +1,12 @@
+<<<<<<< HEAD
  1)Text
  2)Text
  3)olimp
  4)sams
+=======
+1)Text
+2)Text
+3)olimp
+4)Text11
+
+>>>>>>> e25ce1f328918c25893eda9c54473334f698e387
